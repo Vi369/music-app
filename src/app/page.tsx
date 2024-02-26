@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <h1>hello jii</h1>
+    <h1 className=" text-center">hello jii</h1>
   );
 }
